@@ -1,11 +1,12 @@
-# Three.js-React-Template
+# Box-Shadow
 
+- [Live](https://box-shadow.vercel.app)
 ## Setup
 
 ```bash
 #install dependencies
 npm i
-yarn add
+yarn i
 
 #Run the local server at lacalhost:3000
 yarn start
