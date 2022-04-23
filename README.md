@@ -1,6 +1,6 @@
 # Box-Shadow
 
-- [Live](https://box-shadow.vercel.app)
+- [Live](https://box-shadow-gamma.vercel.app)
 ## Setup
 
 ```bash
