@@ -1,19 +1,31 @@
 # Box-Shadow
+Three.js에 익숙해지기 위해 만들어본 box 입니다.
 
 - [Live](https://box-shadow-gamma.vercel.app)
-## Setup
 
-```bash
-#install dependencies
-npm i
-yarn i
+## Getting Started
 
-#Run the local server at lacalhost:3000
+install dependencies:
+```
+yarn
+```
+
+Run the local server at lacalhost:3000:
+
+```
 yarn start
+```
 
-#Build
+Create the Build:
+```
 yarn build
+```
 
-#Test 
+Code Test:
+```
 yarn test
 ```
+
+## Features
+- React.js
+- Three.js
